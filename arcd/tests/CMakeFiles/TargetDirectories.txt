@@ -1,0 +1,3 @@
+/home/casper/work/arcd/tests/CMakeFiles/codec_tests.dir
+/home/casper/work/arcd/tests/CMakeFiles/edit_cache.dir
+/home/casper/work/arcd/tests/CMakeFiles/rebuild_cache.dir

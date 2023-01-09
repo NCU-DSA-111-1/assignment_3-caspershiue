@@ -1,0 +1,3 @@
+/home/casper/work/arcd/arcd/CMakeFiles/arcd.dir
+/home/casper/work/arcd/arcd/CMakeFiles/edit_cache.dir
+/home/casper/work/arcd/arcd/CMakeFiles/rebuild_cache.dir
